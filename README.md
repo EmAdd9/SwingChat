@@ -21,7 +21,7 @@ This project is a Java-based chatting application that enables real-time communi
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Open the project in your favorite Java IDE (e.g., Eclipse, IntelliJ).
+2. Open the project in your favorite Java IDE (e.g., Eclipse).
 3. Run the `ChatServer.java` class to start the server.
 4. Run the `ChatClient.java` class to start the client application.
 5. The client application will open a GUI where you can enter the server address and connect to the chat room.
