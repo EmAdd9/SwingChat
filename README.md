@@ -2,7 +2,7 @@
 
 ![Chatting Application](https://img.freepik.com/premium-vector/chat-app-logo-design-template-can-be-used-icon-chat-application-logo_605910-1724.jpg)
 
-This project is a Java-based chatting application that enables real-time communication between host and client machines. It utilizes Java Swing for the graphical user interface and Socket Programming for establishing network communication.
+This project is a Java-based chatting application that enables real-time communication between host and client machines. It utilizes Java Swing for the graphical user interface and Socket Programming for establishing network.
 
 ## Features
 
